@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-#Write Idea here
+#Write Idea Summary here
